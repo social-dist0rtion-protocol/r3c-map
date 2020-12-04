@@ -126,11 +126,11 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"scifi_platformTiles_32x32.png"
+         "source":"scifi_platformTiles_32x32.tsx"
         }, 
         {
          "firstgid":806,
-         "source":"bw_tileset.png"
+         "source":"bw_tileset.tsx"
         }],
  "tilewidth":32,
  "type":"map",
