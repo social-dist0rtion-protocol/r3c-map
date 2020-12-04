@@ -101,7 +101,7 @@
         {
          "columns":35,
          "firstgid":1,
-         "image":"..\/..\/..\/r3c\/map\/scifi_platformTiles_32x32.png",
+         "image":"scifi_platformTiles_32x32.png",
          "imageheight":736,
          "imagewidth":1120,
          "margin":0,
@@ -114,7 +114,7 @@
         {
          "columns":20,
          "firstgid":806,
-         "image":"..\/..\/..\/r3c\/map\/bw_tileset.png",
+         "image":"bw_tileset.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,
