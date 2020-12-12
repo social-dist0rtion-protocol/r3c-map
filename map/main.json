@@ -33,6 +33,12 @@
          "id":4,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/t4.bcbits.com\/stream\/54e493863ac12041875e8fe353dc403d\/mp3-128\/1511596007?p=0&ts=1607902543&t=70441c516277a53b77ed9a177cd296a2b6d8241f&token=1607902543_558a069f8a283e42e0244ca5787b93f62fa62ee0"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
