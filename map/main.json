@@ -151,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/media.ccc.de"
+                 "value":"https:\/\/media.ccc.de\/"
                 }, 
                 {
                  "name":"silence",
