@@ -12,6 +12,9 @@ Thank you Innerspace - all rights reserved: https://innerspace.bandcamp.com/trac
 
 ## Tileset licenses
 
+CC-BY-SA
+* food_and_drinks.png CERT (cert.ccc.de) https://github.com/cbluoss/rc3_tiles/tree/master/imgs/tilesheets
+
 CC0
 
 * scifi_platformTiles_32x32.png tileset by Eris (https://opengameart.org/users/eris)
