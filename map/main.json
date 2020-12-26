@@ -51,6 +51,12 @@
          "id":17,
          "name":"Disco",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/audio.daubenschuetz.de\/stream"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -63,12 +69,6 @@
          "id":9,
          "name":"Activity",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"https:\/\/t4.bcbits.com\/stream\/54e493863ac12041875e8fe353dc403d\/mp3-128\/1511596007?p=0&ts=1607904988&t=e8f99b1481877147363d653d70de1dc359d7d2e7&token=1607904988_2ba35ae6082171815b87a8724873c3cd1cc1f1e3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/timdaub.github.io\/wasm-synth\/"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
