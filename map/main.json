@@ -210,7 +210,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<SLUG>\/map.json#start}"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
