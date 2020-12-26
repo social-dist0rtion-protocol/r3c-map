@@ -3,7 +3,7 @@ social dist0rtion protocol - r3c world
 
 ## How to test the map
 
-https://play.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/social-dist0rtion-protocol/r3c-map/main/map/main.json
+https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/social-dist0rtion-protocol/r3c-map/main/map/main.json
 
 ## Soundtrack
 
