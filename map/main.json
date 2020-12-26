@@ -240,7 +240,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"{<lobby>\/art-games.json#start_social-dist0rtion-protocol}"
                 }],
          "type":"tilelayer",
          "visible":true,
