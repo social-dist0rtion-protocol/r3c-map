@@ -43,3 +43,4 @@ CC0
 * scifi_platformTiles_32x32.png tileset by Eris (https://opengameart.org/users/eris)
 * rc3-mullana-functionary.png, rc3-mullana-floor-wall.png, official_rockets.png,mapUtilities.png by mullana https://tiles.rc3.world/
 * TabascoEye: https://data.tabascoeye.de/maptest/RZL_2020.json
+* michele: aura.png
