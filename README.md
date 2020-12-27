@@ -29,7 +29,7 @@ CC-BY-SA
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This work is licensed under a
+This map got created by negfx and is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
@@ -41,5 +41,5 @@ This work is licensed under a
 CC0
 
 * scifi_platformTiles_32x32.png tileset by Eris (https://opengameart.org/users/eris)
-* rc3-mullana-functionary.png, rc3-mullana-floor-wall.png, official_rockets.png by mullana https://tiles.rc3.world/
+* rc3-mullana-functionary.png, rc3-mullana-floor-wall.png, official_rockets.png,mapUtilities.png by mullana https://tiles.rc3.world/
 * TabascoEye: https://data.tabascoeye.de/maptest/RZL_2020.json
