@@ -1,5 +1,5 @@
 # r3c-map
-social dist0rtion protocol - r3c world 
+social dist0rtion protocol - r3c world
 
 ## How to test the map
 
