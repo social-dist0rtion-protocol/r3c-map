@@ -85,7 +85,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/audio.daubenschuetz.de\/stream"
+                 "value":"stream:dist0rtion"
                 }],
          "type":"tilelayer",
          "visible":true,
